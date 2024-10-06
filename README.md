@@ -9,7 +9,7 @@ This dashboard showcases the most important KPIs that the business should be awa
 
 ![Dashboard](images/Dashboard.png)
 
-1. ** Business Problem & Data Cleaning**
+1. **Business Problem & Data Cleaning**
 
     Data sheet includes coffeee orders between the years 2019 - 2022 along with Product and Customers information. The initial step included framing the business questions that stakeholder are looking to find answer:
 
