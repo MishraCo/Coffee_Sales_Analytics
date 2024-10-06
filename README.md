@@ -34,8 +34,8 @@ This dashboard showcases the most important KPIs that the business should be awa
 
 Recommendation:
 
-*Focus on Expanding Sales in the U.S. Market* - The United States shows the highest sales, significantly outperforming other countries. It would be beneficial to continue investing in marketing and promotional activities in the U.S. to maintain this lead. Expanding loyalty programs and targeting the top customers from this region can drive further growth.
+*Focus on Expanding Sales in the U.S. Market* - The **United States** shows the highest sales, significantly outperforming other countries. It would be beneficial to continue investing in marketing and promotional activities in the U.S. to maintain this lead. Expanding loyalty programs and targeting the top customers from this region can drive further growth.
 
-*Increase Sales in Underperforming Markets* - Ireland and the United Kingdom show significantly lower sales compared to the United States. Tailored promotions, pricing strategies, or product customization for these regions could help boost sales and create a more balanced global sales portfolio.
+*Increase Sales in Underperforming Markets* - **Ireland** and the **United Kingdom** show significantly lower sales compared to the United States. Tailored promotions, pricing strategies, or product customization for these regions could help boost sales and create a more balanced global sales portfolio.
 
-*Focus on Arabica and Liberica Coffee Types* - From the "Total Sales Over Time" graph, Arabica and Liberica varieties show strong sales peaks at certain times. Marketing efforts around these coffee types during high-demand periods could further enhance sales. Analyzing why these peaks occurred might provide insights for driving consistent sales growth across other months.
+*Focus on Arabica and Liberica Coffee Types* - From the "Total Sales Over Time" graph, **Arabica** and **Liberica** varieties show strong sales peaks at certain times. Marketing efforts around these coffee types during high-demand periods could further enhance sales. Analyzing why these peaks occurred might provide insights for driving consistent sales growth across other months.
