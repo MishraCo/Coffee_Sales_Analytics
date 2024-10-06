@@ -3,11 +3,11 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
 </p>
 
-👩‍💻 [**Check the Dashboard here!**](https://1drv.ms/x/s!AmnXTChaxVWhfl3_WnzmhuZFVco?e=xKun57](https://1drv.ms/x/c/8e8d9958fb97216d/EXtdI1GW7sNBu0CPkarh7GgBTcPkMiUMvl11yrZXXmrXsQ?e=1pGub1)
+👩‍💻 [**Check the Dashboard here!**](https://1drv.ms/x/c/8e8d9958fb97216d/EXtdI1GW7sNBu0CPkarh7GgBTcPkMiUMvl11yrZXXmrXsQ?e=1pGub1)
 
 This dashboard showcases the most important KPIs that the business should be aware of about their Coffee sales. The excel techniques and tools used here are: XLOOKUP, INDEX - MATCH, Data Formatting, Pivot Tables, Charts, Timeline & Slicers.
 
-![Dashboard](images/Dashboard.PNG)
+![Dashboard](images/Dashboard.png)
 
 1. ** Business Problem & Data Cleaning**
 
@@ -19,12 +19,12 @@ This dashboard showcases the most important KPIs that the business should be awa
 
 2. **Sales Over Time**
 
-    ![Sales Over Time](images/SOT.PNG)
+    ![Sales Over Time](images/SOT.png)
 
 3. **Sales By Country**
 
-    ![Countries with highest Sales](/images/SC.PNG)
+    ![Countries with highest Sales](images/SC.png)
 
 4. **Top Five Customers**
 
-    ![Product Wise Units Sold](/images/TOP5.PNG)
+    ![Product Wise Units Sold](images/TOP5.png)
