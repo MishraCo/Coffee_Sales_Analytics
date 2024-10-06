@@ -1,2 +1,30 @@
-# Excel_Coffe_Sales_Analytics
-Analyzed, cleaned and merged the Orders, Products &amp; Customers tables to create the master dataset, Leveraged pivot tables to aggregate data and create appropriate charts in Excel.
+<h1 align="center">📊 Coffee Sales Interactive Dashboard 📊</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
+</p>
+
+👩‍💻 [**Check the Dashboard here!**]([https://1drv.ms/x/s!AmnXTChaxVWhfl3_WnzmhuZFVco?e=xKun57](https://1drv.ms/x/c/8e8d9958fb97216d/EXtdI1GW7sNBu0CPkarh7GgBTcPkMiUMvl11yrZXXmrXsQ?e=1pGub1))
+
+This dashboard showcases the most important KPIs that the business should be aware of about their Coffee sales. The excel techniques and tools used here are: XLOOKUP, INDEX - MATCH, Data Formatting, Pivot Tables, Charts, Timeline & Slicers.
+
+![Dashboard](/images/Dashboard.PNG)
+
+1. ** Business Problem & Data Cleaning**
+
+    Data sheet includes coffeee orders between the years 2019 - 2022 along with Product and Customers information. The initial step included framing the business questions that stakeholder are looking to find answer:
+
+    A. Out of the 4 Coffee Types, which one brings in the most sales and how does this figure vary based on time?
+    B. Who are the top 5 customers for the business?
+    C. Which countries are buying most of the products and by how much more?
+
+2. **Sales Over Time**
+
+    ![Sales Over Time](/images/SOT.PNG)
+
+3. **Sales By Country**
+
+    ![Countries with highest Sales](/images/SC.PNG)
+
+4. **Top Five Customers**
+
+    ![Product Wise Units Sold](/images/TOP5.PNG)
