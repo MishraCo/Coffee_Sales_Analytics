@@ -14,17 +14,20 @@ This dashboard showcases the most important KPIs that the business should be awa
     Data sheet includes coffeee orders between the years 2019 - 2022 along with Product and Customers information. The initial step included framing the business questions that stakeholder are looking to find answer:
 
     A. Out of the 4 Coffee Types, which one brings in the most sales and how does this figure vary based on time?
+   
     B. Who are the top 5 customers for the business?
+   
     C. Which countries are buying most of the products and by how much more?
+   
 
-2. **Sales Over Time**
+3. **Sales Over Time**
 
     ![Sales Over Time](images/SOT.png)
 
-3. **Sales By Country**
+4. **Sales By Country**
 
     ![Countries with highest Sales](images/SC.png)
 
-4. **Top Five Customers**
+5. **Top Five Customers**
 
     ![Product Wise Units Sold](images/TOP5.png)
